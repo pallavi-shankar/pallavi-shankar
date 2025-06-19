@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
 <h3 align="center">A passionate Software Developer Engineer from India</h3>
-
+<img src="https://tse4.mm.bing.net/th?id=OIP.e0Y1FB1igt1FMnTlPe2xNAHaEK&pid=Api&P=0&h=180" alt="" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavi-shankar&label=Profile%20views&color=0e75b6&style=flat" alt="pallavi-shankar" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
