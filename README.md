@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer Engineer from India</h3>
 
 <p align="center">
-  <img src="https://tse4.mm.bing.net/th?id=OIP.e0Y1FB1igt1FMnTlPe2xNAHaEK&pid=Api&P=0&h=180" alt="banner" />
+  <img src="[https://tse4.mm.bing.net/th?id=OIP.e0Y1FB1igt1FMnTlPe2xNAHaEK&pid=Api&P=0&h=180](https://www.michaelpage.co.in/sites/michaelpage.co.in/files/legacy/future_of_tech_bloggif.gif)" alt="banner" />
 </p>
 
 <p align="center">
