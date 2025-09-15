@@ -11,9 +11,10 @@
 
 ---
 
-- 🌱 I’m currently learning **MERN Stack**  
+- 🌱 I’m currently learning and working with **MERN Stack**  
+- 💻 I have built freelance projects and personal portfolios using **React, Node.js, MongoDB, and Tailwind CSS**  
 - 👨‍💻 All of my projects are available at: [Portfolio](https://pallavi-shankar.github.io/Portfolio/)  
-- 💬 Ask me about **C++, Java, DSA, Python, HTML, CSS**  
+- 💬 Ask me about **C++, Java, DSA, Python, HTML, CSS, MERN Stack**  
 - 📫 Reach me at: **pallavishankar2802@gmail.com**  
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/drive/folders/1wFw8r0T4QXyz2tfGLcwFFMinM4R1Q5kN)  
 
@@ -27,7 +28,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -36,7 +38,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
- 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -46,7 +47,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
@@ -59,12 +59,9 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
-
-
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
- 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
@@ -83,3 +80,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi-shankar" alt="github-streak" />
 </p>
+
+---
+
+<h3 align="left">🏆 Recent Achievements:</h3>
+- Built and deployed **freelance projects** using MERN Stack  
+- Gained hands-on experience with **React, Node.js, MongoDB, Tailwind CSS**  
+- Created **Portfolio v2** to showcase projects and skills  
+- Continuously learning advanced **JavaScript, MERN, and full-stack development**  
