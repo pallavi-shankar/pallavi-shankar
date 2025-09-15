@@ -13,7 +13,7 @@
 ---
 
 - 🌱 I’ve completed a full-stack **MERN Stack** project  
-- 💻 I have built freelance projects and personal portfolios using **React, Node.js, MongoDB, and Tailwind CSS**  
+- 💻 I have built projects and personal portfolios using **React, Node.js, MongoDB, and Tailwind CSS**  
 - 👨‍💻 All of my projects are available at: [Portfolio](https://pallavi-shankar.github.io/Portfolio/)  
 - 💬 Ask me about **C++, Java, DSA, Python, HTML, CSS, MERN Stack**  
 - 📫 Reach me at: **pallavishankar2802@gmail.com**  
