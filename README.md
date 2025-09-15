@@ -84,8 +84,9 @@
 ---
 
 <h3 align="left">🏆 Recent Achievements:</h3>
-- Successfully built and deployed **full-stack MERN projects** for freelance and personal work.  
-- Worked on multiple projects using **various technologies**, gaining hands-on experience across the stack.  
-- Developed **Portfolio v2** to showcase projects, skills, and freelance work.  
-- Flexible in adapting to **new technologies and tools** as required for different projects.  
-- Strong experience in **JavaScript, MERN, and full-stack development**.
+- Successfully built and deployed full-stack MERN projects for freelance and personal work.  
+- Worked on multiple projects using various technologies, gaining hands-on experience across the stack.  
+- Developed Portfolio v2 to showcase projects, skills, and freelance work.  
+- Flexible in adapting to new technologies and tools as required for different projects.  
+- Strong experience in JavaScript, MERN, and full-stack development.
+
