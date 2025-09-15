@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
-<h3 align="center">A passionate Software Developer Engineer from India</h3>
+<h3 align="center">A passionate Software Developer  from India</h3>
 
 <p align="center">
   <img src="https://www.michaelpage.co.in/sites/michaelpage.co.in/files/legacy/future_of_tech_bloggif.gif" alt="banner" />
@@ -84,7 +84,8 @@
 ---
 
 <h3 align="left">🏆 Recent Achievements:</h3>
-- Built and deployed **freelance projects** using MERN Stack  
-- Gained hands-on experience with **React, Node.js, MongoDB, Tailwind CSS**  
-- Created **Portfolio v2** to showcase projects and skills  
-- Continuously learning advanced **JavaScript, MERN, and full-stack development**  
+- Successfully built and deployed **full-stack MERN projects** for freelance and personal work.  
+- Worked on multiple projects using **various technologies**, gaining hands-on experience across the stack.  
+- Developed **Portfolio v2** to showcase projects, skills, and freelance work.  
+- Flexible in adapting to **new technologies and tools** as required for different projects.  
+- Strong experience in **JavaScript, MERN, and full-stack development**.
