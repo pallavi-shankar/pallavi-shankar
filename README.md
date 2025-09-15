@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
-<h3 align="center">A passionate Software Developer Engineer from India</h3>
+<h3 align="center">An Aspiring Software / Full Stack Developer from India</h3>
 
 <p align="center">
   <img src="https://www.michaelpage.co.in/sites/michaelpage.co.in/files/legacy/future_of_tech_bloggif.gif" alt="banner" />
@@ -11,8 +11,7 @@
 
 ---
 
-- 🌱 I’m currently learning and working with **MERN Stack**  
-- 💻 I have built freelance projects and personal portfolios using **React, Node.js, MongoDB, and Tailwind CSS**  
+- 💻 Built **freelance and personal projects** using React, Node.js, MongoDB, Tailwind CSS, and more.  
 - 👨‍💻 All of my projects are available at: [Portfolio](https://pallavi-shankar.github.io/Portfolio/)  
 - 💬 Ask me about **C++, Java, DSA, Python, HTML, CSS, MERN Stack**  
 - 📫 Reach me at: **pallavishankar2802@gmail.com**  
@@ -84,7 +83,8 @@
 ---
 
 <h3 align="left">🏆 Recent Achievements:</h3>
-- Built and deployed **freelance projects** using MERN Stack  
-- Gained hands-on experience with **React, Node.js, MongoDB, Tailwind CSS**  
-- Created **Portfolio v2** to showcase projects and skills  
-- Continuously learning advanced **JavaScript, MERN, and full-stack development**  
+- Successfully built and deployed **full-stack MERN projects**.  
+- Worked on multiple projects using **various technologies**, gaining hands-on experience across the stack.  
+- Flexible in adapting to **new technologies and tools** for different projects.  
+- Developed **Portfolio v2** to showcase skills, projects, and freelance work.  
+- Strong experience in **JavaScript, MERN, and full-stack development**.
