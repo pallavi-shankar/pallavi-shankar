@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="center">
-  <img src="https://www.michaelpage.co.in/sites/michaelpage.co.in/files/legacy/future_of_tech_bloggif.gif" alt="banner" />
+  <img src="[https://www.michaelpage.co.in/sites/michaelpage.co.in/files/legacy/future_of_tech_bloggif.gif](https://happy05dz.tumblr.com/image/164289564000)" alt="banner" />
 </p>
 
 <p align="center">
