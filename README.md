@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pallavi</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="center">Hi,I'm Pallavi</h1>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif" alt="cool gif" />
